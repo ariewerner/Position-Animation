@@ -1,0 +1,18 @@
+ #gameArea {
+    width: 800px;
+    height: 600px;
+    overflow: hidden;
+    margin: 0 auto;
+    border: 1px solid #000;
+    position: relative;
+} 
+
+
+.ball {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: #440099;
+    border-radius: 25px;
+}
+            
